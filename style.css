@@ -21,12 +21,16 @@ a {
 }
 
 .videos {
-    margin-bottom: 2.5vw;
+    margin-bottom: 1vw;
+}
+
+.audio {
+    margin-bottom: 1.33vw;
 }
 
 article {
-    margin-top: 5vw;
-    margin-bottom: 2.5vw;
+    margin-top: 3vw;
+    margin-bottom: 1.5vw;
     font-size: 32px;
 }
 
